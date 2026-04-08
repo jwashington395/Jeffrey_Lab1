@@ -8,6 +8,8 @@ This is a simple C++ console application created for Git Lab 1.
 - How to commit and push changes
 - How to collaborate using GitHub
 
+## Changes Made by Jeffrey: Added a feature greeting.
+
 ## Team Members
 - Jeffrey
 - Mike

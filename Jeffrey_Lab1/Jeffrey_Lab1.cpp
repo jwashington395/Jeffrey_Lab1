@@ -11,6 +11,8 @@ int main()
     std::cout << "Git makes collaboration easy!\n";
 
     cout << "This edition was made by the one and only Michael Tormey.\n";
+
+    cout << "Feature by Jeffrey: Branching is awesome!" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
